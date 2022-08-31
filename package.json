@@ -32,5 +32,10 @@
     "sequelize": "^6.21.4",
     "sequelize-cli": "^6.4.1",
     "winston": "^3.8.1"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0",
+    "nodemon": "^2.0.2",
+    "supertest": "^4.0.2"
   }
 }
