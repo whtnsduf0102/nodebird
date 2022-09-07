@@ -68,6 +68,11 @@ router.get('/logout', isLoggedIn, (req, res) => {
   res.redirect('/');
 });
 
+
 //BBB 수정합니다.AAA도 수정
+
+//AAA 수정해서 올립니다. BBB수정합니다
+
+
 
 module.exports = router;
