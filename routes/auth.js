@@ -67,8 +67,7 @@ router.get('/logout', isLoggedIn, (req, res) => {
   req.session.destroy();
   res.redirect('/');
 });
-//AAA 수정해서 올립니다.
 
-//BBB 수정합니다.
+//BBB 수정합니다.AAA도 수정
 
 module.exports = router;
