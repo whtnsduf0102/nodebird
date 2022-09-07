@@ -59,4 +59,6 @@ router.get('/kakao/callback', passport.authenticate('kakao', {
   res.redirect('/');
 });
 
+
+//BBB 수정합니다.
 module.exports = router;
