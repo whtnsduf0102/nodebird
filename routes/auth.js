@@ -73,6 +73,4 @@ router.get('/logout', isLoggedIn, (req, res) => {
 
 //AAA 수정해서 올립니다. BBB수정합니다
 
-
-
 module.exports = router;
